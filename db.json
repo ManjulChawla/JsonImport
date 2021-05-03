@@ -1,8 +1,10 @@
-[
-    {
-        "Name":"Manjul"
-    },
-    {
-        "Name":"Chawla"
-    }
-]
+{
+    "objects": [
+        {
+            "Name": "Manjul"
+        },
+        {
+            "Name": "Chawla"
+        }
+    ]
+}
