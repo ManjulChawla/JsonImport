@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "targetKey": [
       {
         "id": 1,
         "title": "Post 1"
@@ -11,20 +11,6 @@
       {
         "id": 3,
         "title": "Post 3"
-      }
-    ],
-    "comments": [
-      {
-        "Name": "Manjul"
-      },
-      {
-        "Name": "Chawla"
-      },
-      {
-        "Name": "Manjul1"
-      },
-      {
-        "Name": "Chawla1"
       }
     ],
     "profile": {
