@@ -15,17 +15,19 @@
     ],
     "comments": [
       {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
+        "Name": "Manjul"
       },
       {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
+        "Name": "Chawla"
+      },
+      {
+        "Name": "Manjul1"
+      },
+      {
+        "Name": "Chawla1"
       }
     ],
     "profile": {
-      "name": "typicode"
+      "name": "ManjulChawla"
     }
   }
