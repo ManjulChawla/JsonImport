@@ -1,22 +1,28 @@
 {
     "targetKey": [
       {
-        "Name": "Post 1"
+        "Name": "Post 1",
+        "Rank":1
       },
       {
-        "Name": "Post 2"
+        "Name": "Post 2",
+        "Rank":2
+          },
+      {
+        "Name": "Post 3",
+        "Rank":3
       },
       {
-        "Name": "Post 3"
+        "Name": "Post 4",
+        "Rank":4
       },
       {
-        "Name": "Post 4"
+        "Name": "Post 5",
+        "Rank":5
       },
       {
-        "Name": "Post 5"
-      },
-      {
-        "Name": "Post 6"
+        "Name": "Post 6",
+        "Rank":6
       }
     ]
   }
