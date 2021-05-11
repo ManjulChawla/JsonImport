@@ -2,6 +2,7 @@
     "targetKey": [
       {
         "Name": "Post 1",
+        "name":"Duplicate Post 1",
         "Child Name":"Child5",
         "Rank":1,
         "Id":51,
@@ -9,6 +10,7 @@
       },
       {
         "Name": "Post 2",
+        "name":"Duplicate Post 2",
         "Child Name":"Child6",
         "Rank":1,
         "Id":52,
@@ -16,6 +18,7 @@
       },
       {
         "Name": "Post 3",
+        "name":"Duplicate Post 3",
         "Child Name":"Child7",
         "Rank":3,
         "Id":53,
@@ -23,6 +26,7 @@
       },
       {
         "Name": "Post 4",
+        "name":"Duplicate Post 4",
         "Child Name":"Child8",
         "Rank":4,
         "Id":54,
@@ -30,6 +34,7 @@
       },
       {
         "Name": "Post 5",
+        "name":"Duplicate Post 5",
         "Child Name":"Child9",
         "Rank":5,
         "Id":55,
@@ -37,6 +42,7 @@
       },
       {
         "Name": "Post 6",
+        "name":"Duplicate Post 6",
         "Child Name":"Child10",
         "Rank":6,
         "Id":56,
