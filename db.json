@@ -6,7 +6,8 @@
         "Child Name":"Child5",
         "Rank":1,
         "Id":0,
-        "Date":"4/27/2021"
+        "Date":"4/27/2021",
+        "Blood Group":"A"
       },
       {
         "Name": "Post 2",
@@ -14,7 +15,8 @@
         "Child Name":"Child6",
         "Rank":1,
         "Id":52,
-        "Date":1
+        "Date":1,
+        "Blood Group":"B"
       },
       {
         "Name": "Post 3",
@@ -22,7 +24,8 @@
         "Child Name":"Child7",
         "Rank":3,
         "Id":53,
-        "Date":"text"
+        "Date":"text",
+        "Blood Group":"B"
       },
       {
         "Name": "Post 4",
@@ -30,7 +33,8 @@
         "Child Name":"Child8",
         "Rank":4,
         "Id":54,
-        "Date":4
+        "Date":4,
+        "Blood Group":"B"
       },
       {
         "Name": "Post 5",
@@ -38,7 +42,8 @@
         "Child Name":"Child9",
         "Rank":5,
         "Id":55,
-        "Date":"4/27/2021"
+        "Date":"4/27/2021",
+        "Blood Group":"A"
       },
       {
         "Name": "Post 6",
@@ -46,7 +51,8 @@
         "Child Name":"Child10",
         "Rank":6,
         "Id":56,
-        "Date":"text field"
+        "Date":"text field",
+        "Blood Group":"A"
       }
     ]
   }
